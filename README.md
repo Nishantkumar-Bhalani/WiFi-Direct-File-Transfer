@@ -6,9 +6,6 @@
  This application is intended to provide a much higher speed alternative to Bluetooth
  file transfer. 
 
- Copyright (C) 2012  Teja R. Pitla
- Contact: teja.pitla@gmail.com
-
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation, either version 3 of the License, or
@@ -57,3 +54,12 @@ Upcoming Updates:
 
 Refrenced from :  Teja R. Pitla : https://github.com/mayfourth/WiFi-Direct-File-Transfer
 
+We have following add-ons on our application:
+*Improved GUI
+*Selection of File through Gallery In-built Application
+
+Contributed By:
+*Nishantkumar Bhalani
+*Avadh Boriya
+*Thaijasa Badrinath Vijendranath
+*Sahana Alliyandiru Jayasheela
